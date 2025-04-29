@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="480" height="360" viewBox="0,0,480,360">
+    <g stroke="none" stroke-miterlimit="10">
+        <path d="M0,360v-360h480v360z" fill-opacity="0" fill="#000000" />
+        <g fill="#ffffff" font-family="Sans Serif" font-weight="400" font-size="14"
+            text-anchor="start">
+            <text transform="translate(10,175)" xml:space="preserve"><tspan x="0" dy="0">If I could walk right beside you</tspan></text>
+            <text transform="translate(10,195)" xml:space="preserve"><tspan x="0" dy="0">若我能伴你而行，</tspan></text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "declaration": false,
+        "module": "NodeNext",
+        "lib": ["ESNext"]
+    },
+    "include": [
+        "scratch-lyrics-generator.ts"
+    ]
+}

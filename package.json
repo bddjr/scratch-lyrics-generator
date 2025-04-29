@@ -1,0 +1,16 @@
+{
+	"name": "scratch-lyrics-generator",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"go": "tsc && node scratch-lyrics-generator.js"
+	},
+	"dependencies": {
+		"@types/node": "^22.15.3",
+		"@xmldom/xmldom": "^0.9.8",
+		"clrc": "^3.1.4",
+		"jszip": "^3.10.1",
+		"rimraf": "^6.0.1",
+		"typescript": "^5.8.3"
+	}
+}
