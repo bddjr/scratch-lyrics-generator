@@ -92,7 +92,7 @@ interface scratchSprite {
     costumes: scratchCostume[],
 }
 
-const sprite = JSON.parse(await template.sprite.file("sprite.json")!.async("string")) as scratchSprite
+const sprite = JSON.parse(await template.sprite.file(spriteJsonName)!.async("string")) as scratchSprite
 
 (() => {
     const timeList = lyrics.map((v) => v.startMillisecond / 1000)
