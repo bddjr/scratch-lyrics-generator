@@ -1,24 +1,7 @@
-This is free and unencumbered software released into the public domain.
+该作品内置的音乐、封面、歌词均转载或改编自网易云音乐，未征得许可，若有侵权请联系删除。
+The music, cover art, and lyrics included in this work are either reposted or adapted from NetEase Cloud Music without permission. If there is any infringement, please contact us for removal.
+https://music.163.com/#/song?id=2657613721
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org/>
+除上述内容以外，代码使用 Unlicense 开源协议，分发不受任何版权限制。
+Except for the aforementioned content, the code is released under the Unlicense open-source license and can be distributed without any copyright restrictions.
+https://unlicense.org
