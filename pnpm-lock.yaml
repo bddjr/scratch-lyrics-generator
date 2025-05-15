@@ -23,6 +23,9 @@ importers:
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
+      scratch-uid:
+        specifier: 3.0.0
+        version: 3.0.0
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
@@ -162,6 +165,9 @@ packages:
 
   safe-buffer@5.1.2:
     resolution: {integrity: sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==}
+
+  scratch-uid@3.0.0:
+    resolution: {integrity: sha512-j9iCx5BTADZEnNxp5lYOHBSTXg+6Cz9kMpImJXvBjsrwnsDaQ5/y3hnxyhezrjTjq62IazC/E8ih15LIaJxjPw==}
 
   setimmediate@1.0.5:
     resolution: {integrity: sha512-MATJdZp8sLqDl/68LfQmbP8zKPLQNV6BIZoIgrscFDQ+RsvK/BxeDQOgyxKKoh0y/8h3BqVFnCqQ/gd+reiIXA==}
@@ -352,6 +358,8 @@ snapshots:
       package-json-from-dist: 1.0.1
 
   safe-buffer@5.1.2: {}
+
+  scratch-uid@3.0.0: {}
 
   setimmediate@1.0.5: {}
 

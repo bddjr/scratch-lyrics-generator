@@ -5,6 +5,7 @@ import nodeCrypto from "crypto"
 import clrc from 'clrc'
 import { rimrafSync } from 'rimraf'
 import { Document, DOMParser, Element, XMLSerializer } from '@xmldom/xmldom'
+import ScratchUID from "scratch-uid"
 
 const color = "" // "#ffffff"
 
@@ -38,10 +39,6 @@ function stringifySVG(svg: Document) {
 
 function md5hex(data: nodeCrypto.BinaryLike) {
     return nodeCrypto.createHash('md5').update(data).digest('hex');
-}
-
-function uuid() {
-    return crypto.randomUUID().replaceAll('-', '')
 }
 
 const lyrics = (() => {
@@ -102,7 +99,7 @@ const sprite = JSON.parse(await template.sprite.file(spriteJsonName)!.async("str
             return
         }
     }
-    sprite.lists[uuid()] = [timeListName, timeList]
+    sprite.lists[ScratchUID()] = [timeListName, timeList]
 })();
 
 sprite.costumes = []
