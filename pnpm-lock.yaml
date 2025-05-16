@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@types/node':
-        specifier: ^22.15.3
+        specifier: '>=22.15.3'
         version: 22.15.3
       '@xmldom/xmldom':
         specifier: ^0.9.8
@@ -24,7 +24,7 @@ importers:
         specifier: ^6.0.1
         version: 6.0.1
       scratch-uid:
-        specifier: 3.0.0
+        specifier: ^3.0.0
         version: 3.0.0
       typescript:
         specifier: ^5.8.3
