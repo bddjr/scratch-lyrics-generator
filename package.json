@@ -6,7 +6,7 @@
 		"go": "tsc && node scratch-lyrics-generator.js"
 	},
 	"dependencies": {
-		"@types/node": ">=22.15.3",
+		"@types/node": ">=24.0.3",
 		"@xmldom/xmldom": "^0.9.8",
 		"clrc": "^3.1.4",
 		"jszip": "^3.10.1",
